@@ -75,6 +75,20 @@ chmod +x BAN.js
 
 ./BAN.js
 
+bahasa Indonesia 🇮🇩
+
+____________________________________________________________
+cara jalankan gimana yah kalian cari username orang nya nah 
+masukin ini password nya otomatis crack ke banned
+pass1234
+____________________________________________________________
+
+Language English 🇬🇧
+____________________________________________________________
+
+How do you do it? Look for the person's username.
+Enter this password and it will automatically crack and become banned.
+pass1234
 
 ____________________________________________________________
 
