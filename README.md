@@ -98,8 +98,8 @@ ____________________________________________________________
 <body style="display:flex;justify-content:center;align-items:center;height:100vh;background:#f5f5f5;">
   
   <!-- Klik gambar akan membuka link -->
-  <a href="[https://instagram.com](https://saweria.co/HOZOO)" target="_blank">
-    <img src="donasi.jpeg" alt="Instagram Banned" style="max-width:100%;height:auto;border:5px solid #000;cursor:pointer;">
+  <a href="[[[https://instagram.com](https://saweria.co/HOZOO)](https://saweria.co/HOZOO)](https://saweria.co/HOZOO)" target="_blank">
+    <img src="donasi.jpeg" alt="donasi " style="max-width:100%;height:auto;border:5px solid #000;cursor:pointer;">
   </a>
 
 </body>
