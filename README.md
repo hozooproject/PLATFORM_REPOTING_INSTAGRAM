@@ -93,8 +93,11 @@ ____________________________________________________________
 <head>
   <meta charset="UTF-8">
    BANTU DONASI LORDHOZOO  | HELP DONATE LORDHOZOO 
+  
    👇👇👇👇👇👇👇👇👇👇👇
+  
   https://saweria.co/HOZOO
+  
   👆👆👆👆👆👆👆👆👆👆👆
 </head>
 <body style="display:flex;justify-content:center;align-items:center;height:100vh;background:#f5f5f5;">
