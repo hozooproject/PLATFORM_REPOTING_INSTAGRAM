@@ -85,6 +85,6 @@ ____________________________________________________________
   <title>Tampilan Gambar</title>
 </head>
 <body style="display:flex;justify-content:center;align-items:center;height:100vh;background:#f5f5f5;">
-  <img src="namafile.jpg" alt="Instagram Banned" style="max-width:100%;height:auto;border:5px solid #000;">
+  <img src="hozoo.jpeg" alt="Instagram Banned" style="max-width:100%;height:auto;border:5px solid #000;">
 </body>
 </html>
