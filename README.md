@@ -88,4 +88,21 @@ ____________________________________________________________
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+   BANTU DONASI LORDHOZOO  | HELP DONATE LORDHOZOO 
+</head>
+<body style="display:flex;justify-content:center;align-items:center;height:100vh;background:#f5f5f5;">
+  
+  <!-- Klik gambar akan membuka link -->
+  <a href="[https://instagram.com](https://saweria.co/HOZOO)" target="_blank">
+    <img src="donasi.jpg" alt="Instagram Banned" style="max-width:100%;height:auto;border:5px solid #000;cursor:pointer;">
+  </a>
+
+</body>
+</html>
+
+
 ____________________________________________________________
